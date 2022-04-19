@@ -4,3 +4,4 @@ Topics/Questions:
 >Precomputation:
 
   https://www.codechef.com/problems/GCDQ
+  https://www.youtube.com/watch?v=zwlCeWUGlE0&ab_channel=Luv
