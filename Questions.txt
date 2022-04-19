@@ -5,3 +5,4 @@ Topics/Questions:
 
   https://www.codechef.com/problems/GCDQ
   https://www.youtube.com/watch?v=zwlCeWUGlE0&ab_channel=Luv
+  *https://www.hackerrank.com/challenges/crush/problem
