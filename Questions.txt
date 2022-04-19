@@ -1,0 +1,6 @@
+Topics/Questions:
+
+
+>Precomputation:
+
+  https://www.codechef.com/problems/GCDQ
