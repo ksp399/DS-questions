@@ -2,7 +2,15 @@ Topics/Questions:
 
 
 >Precomputation:
-
+  Prefix sum:
+  
   https://www.codechef.com/problems/GCDQ
   https://www.youtube.com/watch?v=zwlCeWUGlE0&ab_channel=Luv
   *https://www.hackerrank.com/challenges/crush/problem
+
+
+>stack:
+  
+  https://leetcode.com/problems/next-greater-element-i/
+  https://leetcode.com/problems/next-greater-element-ii/
+  https://www.hackerrank.com/contests/second/challenges/next-greater-element/problem
