@@ -25,6 +25,6 @@ Topics/Questions:
   https://codeforces.com/problemset/problem/1462/D
 
 
->binarysearch:
+>binarysearch: (find monotonic predicate function)
   
   Nth root upto m decimal places: https://www.youtube.com/watch?v=5snE6xsyheE&ab_channel=Luv
