@@ -27,4 +27,4 @@ Topics/Questions:
 
 >binarysearch:
   
-  Square root upto n decimal places: https://www.youtube.com/watch?v=5snE6xsyheE&ab_channel=Luv
+  Nth root upto m decimal places: https://www.youtube.com/watch?v=5snE6xsyheE&ab_channel=Luv
