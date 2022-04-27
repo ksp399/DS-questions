@@ -23,3 +23,8 @@ Topics/Questions:
   https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
   https://leetcode.com/problems/subsets/
   https://codeforces.com/problemset/problem/1462/D
+
+
+>binarysearch:
+  
+  Square root upto n decimal places: https://www.youtube.com/watch?v=5snE6xsyheE&ab_channel=Luv
