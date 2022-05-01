@@ -29,4 +29,5 @@ Topics/Questions:
   
   Nth root upto m decimal places: https://www.youtube.com/watch?v=5snE6xsyheE&ab_channel=Luv
   https://www.interviewbit.com/problems/painters-partition-problem/submissions/
+  https://www.spoj.com/problems/EKO/
   
