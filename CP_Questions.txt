@@ -33,3 +33,7 @@ Topics/Questions:
   https://codeforces.com/problemset/problem/474/B
   https://www.spoj.com/problems/AGGRCOW/
   
+  
+ >bit manipulation:
+ 
+ https://www.hackerearth.com/problem/algorithm/monk-and-his-father-93b639f4/
