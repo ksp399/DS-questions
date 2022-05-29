@@ -38,6 +38,7 @@ Topics/Questions:
   
   Normal Approach:
   https://leetcode.com/problems/search-in-rotated-sorted-array/
+  https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
   
 >bit manipulation:
  https://www.hackerearth.com/problem/algorithm/monk-and-his-father-93b639f4/
