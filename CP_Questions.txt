@@ -36,17 +36,18 @@ Topics/Questions:
   https://codeforces.com/problemset/problem/474/B
   https://www.spoj.com/problems/AGGRCOW/
   
+  Normal Approach:
+  https://leetcode.com/problems/search-in-rotated-sorted-array/
   
- >bit manipulation:
- 
+>bit manipulation:
  https://www.hackerearth.com/problem/algorithm/monk-and-his-father-93b639f4/
  
- >bfs/dfs:
+>bfs/dfs:
  basic: https://leetcode.com/problems/island-perimeter/submissions/
  matrix : https://leetcode.com/problems/flood-fill/
  matrix : https://leetcode.com/problems/max-area-of-island/
  
- >tree:
+>tree:
  https://leetcode.com/problems/diameter-of-binary-tree/
  https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
  https://leetcode.com/problems/longest-univalue-path/
