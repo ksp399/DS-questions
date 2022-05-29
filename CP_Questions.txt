@@ -1,5 +1,8 @@
 Topics/Questions:
 
+>String:
+  
+  https://leetcode.com/problems/implement-strstr/
 
 >Precomputation:
   Prefix sum:
