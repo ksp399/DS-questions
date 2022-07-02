@@ -53,6 +53,8 @@ Topics/Questions:
  https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
  https://leetcode.com/problems/longest-univalue-path/
 
+>Fenwick trees:
+  https://www.youtube.com/watch?v=kPaJfAUwViY&ab_channel=AlgorithmsLive%21
 
 >dp:
 https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1 ----------kmp algo: https://www.youtube.com/watch?v=__Cu92rei1s
