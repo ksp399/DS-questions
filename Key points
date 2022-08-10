@@ -1,4 +1,24 @@
 #In the case of binary search trees (BST), Inorder traversal gives nodes in non-decreasing order.
 #A min-heap has the property that every node at level ‘n’ stores a value that is less than or equal to that of its children at level ‘n+1’.
 #first element of priority queue is root node of min heap.
-#
+
+# Integer[] temp = set.toArray(new Integer[0]);       ----set to Array
+
+#        Arrays.sort(event, (t1, t2) -> {
+            if (t1[1]!=t2[1]){
+                return Integer.compare(t1[1],t2[1]);
+            }else{
+                return Integer.compare(t1[0],t2[0]);
+            }
+         });
+
+
+#  for (Map.Entry<Integer, Integer> a : map.entrySet()) {
+        ArrayList<Integer>elements=new ArrayList<>();
+        elements.add(a.getKey());
+        elements.add(a.getValue());
+        ans.add(elements);
+    }
+    
+    
+ 
