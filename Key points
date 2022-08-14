@@ -2,6 +2,8 @@
 #A min-heap has the property that every node at level ‘n’ stores a value that is less than or equal to that of its children at level ‘n+1’.
 #first element of priority queue is root node of min heap.
 #https://www.geeksforgeeks.org/type-conversion-java-examples/
+# in java '%' operator is not modulus operator , it is remainder :: https://stackoverflow.com/questions/5385024/mod-in-java-produces-negative-numbers
+
 
 
 # Integer[] temp = set.toArray(new Integer[0]);       ----set to Array
