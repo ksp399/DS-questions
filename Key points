@@ -4,8 +4,8 @@
 #https://www.geeksforgeeks.org/type-conversion-java-examples/
 # in java '%' operator is not modulus operator , it is remainder :: https://stackoverflow.com/questions/5385024/mod-in-java-produces-negative-numbers
 
-
 # '2'-'0'  ----> 2 ---which is integer
+
 # Integer[] temp = set.toArray(new Integer[0]);       ----set to Array
 
 #        Arrays.sort(event, (t1, t2) -> {
@@ -24,5 +24,9 @@
         ans.add(elements);
     }
     
-    
+   
+#In Java, there are three types you should use when working with strings: String, StringBuilder, and StringBuffer.
+    The main difference related to your question is that Strings are immutable, whereas StringBuilders and StringBuffers are both mutable. This means when you do an operation such as concat or substring, a String would create an entirely new String object and discard the old one for the garbage collector. With StringBuilders and StringBuffers, those methods actually modify the original objects themselves, so you don’t have the extra garbage left over.
+    For most programs you’re perfectly fine using String, since the JVM garbage collector will be able to take care of it. If you want to do some heavy lifting, however, let’s move on to StringBuilder and StringBuffer.
+    For all practical purposes, StringBuilder is used for serial programs, while StringBuffer is better for multi threaded environments. If you haven’t explored multi threading yet, just use StringBuilder for now, as it’s faster. StringBuffer has some added protections which help thread management, which slow it down just a bit.
  
