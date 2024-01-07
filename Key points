@@ -30,3 +30,4 @@
     For most programs you’re perfectly fine using String, since the JVM garbage collector will be able to take care of it. If you want to do some heavy lifting, however, let’s move on to StringBuilder and StringBuffer.
     For all practical purposes, StringBuilder is used for serial programs, while StringBuffer is better for multi threaded environments. If you haven’t explored multi threading yet, just use StringBuilder for now, as it’s faster. StringBuffer has some added protections which help thread management, which slow it down just a bit.
  
+# In BFS, while putting elements in queue, mark them visited there itself instead of popping them and then marking them visited as multiple elements will be inserted in queue of same state, Eg: https://leetcode.com/problems/coin-change/submissions/1139677785/ 
