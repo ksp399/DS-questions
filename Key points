@@ -6,6 +6,9 @@
 
 # '2'-'0'  ----> 2 ---which is integer
 
+# Random r = new Random();
+  int randomInt = rand.nextInt(r); // Generates a random integer between 0 (inclusive) and r (exclusive) -   [0,r)
+
 # Integer[] temp = set.toArray(new Integer[0]);       ----set to Array
 
 #        Arrays.sort(event, (t1, t2) -> {
