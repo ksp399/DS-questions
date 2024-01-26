@@ -6,6 +6,8 @@
 
 # '2'-'0'  ----> 2 ---which is integer
 
+# Incase if we want to MOD answer with M=10^9+7, then if exp is (a+b+c+d)%M, then break it into ((a+b)%M+(c+d)%M)%M
+
 # Random r = new Random();
   int randomInt = rand.nextInt(r); // Generates a random integer between 0 (inclusive) and r (exclusive) -   [0,r)
 
