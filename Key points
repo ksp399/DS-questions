@@ -28,6 +28,8 @@
         elements.add(a.getValue());
         ans.add(elements);
     }
+
+# We can use == operators for reference comparison (address comparison) and .equals() method for content comparison. In simple words, == checks if both objects point to the same memory location whereas .equals() evaluates to the comparison of values in the objects.
     
    
 #In Java, there are three types you should use when working with strings: String, StringBuilder, and StringBuffer.
