@@ -30,7 +30,7 @@
     }
 
 # We can use == operators for reference comparison (address comparison) and .equals() method for content comparison. In simple words, == checks if both objects point to the same memory location whereas .equals() evaluates to the comparison of values in the objects.
-    
+# Integer.valueOf() returns an Integer object while Integer.parseInt() returns a primitive int
    
 #In Java, there are three types you should use when working with strings: String, StringBuilder, and StringBuffer.
     The main difference related to your question is that Strings are immutable, whereas StringBuilders and StringBuffers are both mutable. This means when you do an operation such as concat or substring, a String would create an entirely new String object and discard the old one for the garbage collector. With StringBuilders and StringBuffers, those methods actually modify the original objects themselves, so you don’t have the extra garbage left over.
