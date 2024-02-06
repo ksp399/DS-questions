@@ -5,6 +5,7 @@
 # in java '%' operator is not modulus operator , it is remainder :: https://stackoverflow.com/questions/5385024/mod-in-java-produces-negative-numbers
 
 # '2'-'0'  ----> 2 ---which is integer
+# key = (char)('a'+j)+String.valueOf(arr[j]); if arr[j] = 7 and j =3 then key = "d7"
 
 # Incase if we want to MOD answer with M=10^9+7, then if exp is (a+b+c+d)%M, then break it into ((a+b)%M+(c+d)%M)%M
 
