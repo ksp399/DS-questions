@@ -7,6 +7,12 @@
 # '2'-'0'  ----> 2 ---which is integer
 # key = (char)('a'+j)+String.valueOf(arr[j]); if arr[j] = 7 and j =3 then key = "d7"
 
+# Widening (Implicit) Conversion: This conversion occurs when you convert a smaller data type to a larger one, and Java automatically handles it without any explicit casting.
+  byte → short → int → long → float → double
+  char → int (char will be casted to int)
+# Narrowing (Explicit) Conversion: This conversion occurs when you convert a larger data type to a smaller one, and it requires explicit casting. This may result in data loss if the value being converted cannot be represented by the target data type.
+  double → float → long → int → char → short → byte
+
 # Incase if we want to MOD answer with M=10^9+7, then if exp is (a+b+c+d)%M, then break it into ((a+b)%M+(c+d)%M)%M
 
 # Random r = new Random();
