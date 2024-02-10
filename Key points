@@ -6,6 +6,7 @@
 
 # '2'-'0'  ----> 2 ---which is integer
 # key = (char)('a'+j)+String.valueOf(arr[j]); if arr[j] = 7 and j =3 then key = "d7"
+# String s="hello";    System.out.println(s.substring(0,2)); //returns he  as a substring ( '[)' )
 
 # Widening (Implicit) Conversion: This conversion occurs when you convert a smaller data type to a larger one, and Java automatically handles it without any explicit casting.
   byte → short → int → long → float → double
