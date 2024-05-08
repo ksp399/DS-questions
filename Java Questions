@@ -37,7 +37,6 @@ https://www.javatpoint.com/java-threadlocal-class
 https://www.geeksforgeeks.org/producer-consumer-solution-using-threads-java/
 https://www.geeksforgeeks.org/association-composition-aggregation-java/
 https://stackoverflow.com/questions/8490852/spring-transactional-isolation-propagation
-
 https://www.geeksforgeeks.org/jvm-works-jvm-architecture/
 
 
@@ -50,4 +49,7 @@ https://www.javatpoint.com/multiple-catch-block-in-java
 https://www.geeksforgeeks.org/difference-between-put-and-patch-request/
 https://stackoverflow.com/questions/20198279/constructor-call-must-be-the-first-statement-in-a-constructor
 https://medium.com/system-design-blog/consistent-hashing-b9134c8a9062
+
+https://www.geeksforgeeks.org/stream-in-java/                   (create a list of odd and even elements using stream API)
+
 
