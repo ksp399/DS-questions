@@ -30,6 +30,7 @@
             }
          });
 
+#  ArrayList<Integer> list = new ArrayList<>(Arrays.asList(1, 2, 4, 5));
 
 #  for (Map.Entry<Integer, Integer> a : map.entrySet()) {
         ArrayList<Integer>elements=new ArrayList<>();
