@@ -60,3 +60,6 @@ Topics/Questions:
 https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1 ----------kmp algo: https://www.youtube.com/watch?v=__Cu92rei1s
 https://leetcode.com/problems/word-break/
 
+
+>dsu:
+https://leetcode.com/problems/find-if-path-exists-in-graph/
