@@ -1,0 +1,2 @@
+curl --location 'https://clist.by/api/v4/contest/?limit=2&total_count=true&upcoming=true&start_time__during=1%20day&host=leetcode.com&order_by=start&username=kush399&api_key=b431beb51e09ef7985ec83132fd9b1f49102bbbe' \
+--header 'Cookie: csrftoken=2ta6MURqctrSSWf6JbFiUdkdouKPcCIM'
